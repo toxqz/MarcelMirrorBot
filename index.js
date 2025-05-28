@@ -1,0 +1,1 @@
+console.log("Marcel Mirror Bot is running.");
